@@ -1,1 +1,1 @@
-This repository has codes and data related to my work on causal inference
+This repository has codes related to my work on causal inference
